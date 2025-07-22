@@ -1,0 +1,11 @@
+# Golang
+/bin/
+*.exe
+*.test
+*.out
+
+# Dependency
+vendor/
+
+# Env
+.env
